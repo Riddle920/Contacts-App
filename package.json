@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  // "homepage": "http://Riddle920.github.io/{repository-name}",
+  "homepage": "http://Riddle920.github.io/Contacts-App",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
