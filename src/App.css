@@ -21,7 +21,6 @@
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
-  padding: 10px;
   font-size: 40px;
 }
 
@@ -94,7 +93,6 @@ ul::-webkit-scrollbar-thumb {
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
-  padding: 10px;
   font-size: 40px;
 }
 
@@ -131,7 +129,7 @@ ul::-webkit-scrollbar-thumb {
   flex-basis: 100%;
 }
 
-@media all and (max-width: 1600px) {
+@media all and (max-width: 1300px) {
   .main li {
     flex: 1 100%;
   }
