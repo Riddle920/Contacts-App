@@ -21,7 +21,7 @@
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
-  padding: 20px;
+  padding: 10px;
   font-size: 40px;
 }
 
@@ -94,7 +94,7 @@ ul::-webkit-scrollbar-thumb {
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
-  padding: 20px;
+  padding: 10px;
   font-size: 40px;
 }
 
@@ -141,5 +141,8 @@ ul::-webkit-scrollbar-thumb {
   }
   .sidebar-text {
     text-align: center;
+  }
+  .main img {
+    height: 150px;
   }
 }
