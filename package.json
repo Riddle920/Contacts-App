@@ -11,6 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  // "homepage": "http://Riddle920.github.io/{repository-name}",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ajv": "^7.2.4",
+    "gh-pages": "^6.2.0"
   }
 }
