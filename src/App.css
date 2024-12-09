@@ -9,7 +9,7 @@
   width: 25%;
   background: rgb(76, 80, 83);
   color: rgb(205, 216, 226);
-  padding: 10px;
+  padding-left: 10px;
   display: flex;
   flex-direction: column;
   min-width: 250px;
@@ -21,7 +21,9 @@
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
+  padding: 10px;
   font-size: 40px;
+  margin-top: 0;
 }
 
 .sidebar ul {
@@ -29,6 +31,7 @@
   padding: 10px;
   overflow-y: auto;
   flex-grow: 1;
+  margin-top: 0;
 }
 
 ul::-webkit-scrollbar {
@@ -83,7 +86,7 @@ ul::-webkit-scrollbar-thumb {
   flex: 1;
   background: rgb(63, 65, 71);
   color: white;
-  padding: 10px;
+  padding-left: 10px;
   height: auto;
   overflow-y: auto;
 }
@@ -93,7 +96,9 @@ ul::-webkit-scrollbar-thumb {
   border-color: black;
   box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 25px;
+  padding: 10px;
   font-size: 40px;
+  margin-top: 0;
 }
 
 .main img {
